@@ -1,0 +1,8 @@
+C:\workspace\Teste\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\workspace\Teste\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\workspace\Teste\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CoreCompileInputs.cache
+C:\workspace\Teste\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\workspace\Teste\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\workspace\Teste\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\workspace\Teste\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\workspace\Teste\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
